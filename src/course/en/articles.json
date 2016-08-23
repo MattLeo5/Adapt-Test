@@ -59,13 +59,22 @@
 		"displayTitle": "",
 		"body": ""
 	},
-		{
+	{
 		"_id": "a-50",
 		"_parentId": "co-25",
 		"_type": "article",
 		"_classes": "",
-		"title": "Article Test Title",
-		"displayTitle": "",
-		"body": "Body text for Article Test Title"
+		"title": "a-50",
+		"displayTitle": "Article 1",
+		"body": ""
+	},
+		{
+		"_id": "a-55",
+		"_parentId": "co-25",
+		"_type": "article",
+		"_classes": "",
+		"title": "a-55",
+		"displayTitle": "Article 2",
+		"body": ""
 	}
 ]
