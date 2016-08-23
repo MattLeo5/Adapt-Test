@@ -1090,5 +1090,33 @@
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}
+	},
+	{
+		"_id": "c-200",
+		"_parentId": "b-150",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "left",
+		"title": "Test Component!",
+		"displayTitle": "",
+		"body": "This is the body of my test component. I sure hope this works.",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+		{
+		"_id": "c-201",
+		"_parentId": "b-150",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "right",
+		"title": "Right Test Component!",
+		"displayTitle": "",
+		"body": "This is the body of my <strong>right</strong> test component. I sure hope this works.",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
 	}
 ]
