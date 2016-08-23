@@ -58,5 +58,25 @@
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}
+	},
+		{
+		"_id": "co-25",
+		"_parentId": "course",
+		"_type": "page",
+		"_classes": "",
+		"title": "Matt's Component",
+		"displayTitle": "Matt's Component",
+		"pageBody": "<strong>This is Matt's test component.</strong>",
+		"body": "This is the body of the graphic where I will be putting some text and things. ",
+		"_graphic": {
+			"src": "course/en/images/menu_thumb.jpg",
+			"alt": "Placeholder graphic."
+		},
+		"linkText": "View",
+		"durationLabel": "Duration:",
+		"duration": "45 hours",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
 	}
 ]

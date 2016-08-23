@@ -1,10 +1,10 @@
 {
     "_id": "course",
     "_type": "course",
-    "title": "Adapt Version 2.0 demonstration",
+    "title": "Adapt Test",
     "displayTitle": "Adapt Version 2.0 demonstration",
-    "description": "A sample course demonstrating the capabilities of the Adapt Version 2.0",
-    "body": "Welcome to the demonstration build for Version 2.0 of the Adapt framework.<br><br>We’ve added some major new items of functionality to Adapt for this release, most notably accessibility to WAI level AA, Right to Left language support and greatly improved assessments. If you’d like to find out more about this, along with the the other improvements we’ve made then please read the release notes (Link to follow for demo).               ",
+    "description": "Sandbox for testing Adapt for the first time.",
+    "body": "This is a sandbox for testing Adapt for the first time.<br><br>We’ve added some major new items of functionality to Adapt for this release, most notably accessibility to WAI level AA, Right to Left language support and greatly improved assessments. If you’d like to find out more about this, along with the the other improvements we’ve made then please read the release notes (Link to follow for demo).               ",
     "_buttons": {
         "_submit": {
             "buttonText": "Submit",
@@ -124,7 +124,7 @@
             }
         }
     },
-    "_latestTrackingId": 20,
+    "_latestTrackingId": 21,
     "_pageLevelProgress": {
         "_isEnabled": true,
         "_altText": "of components completed on this page."
