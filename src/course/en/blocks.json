@@ -390,9 +390,19 @@
         "_parentId": "a-50",
         "_type": "block",
         "_classes": "",
-        "title": "Title of first block.",
-        "displayTitle": "",
+        "title": "b-150",
+        "displayTitle": "Block 1",
         "body": "Body text for first block.",
         "_trackingId": 21
+    },
+    {
+        "_id": "b-155",
+        "_parentId": "a-55",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-155",
+        "displayTitle": "Block 2",
+        "body": "Body text for second block.",
+        "_trackingId": 22
     }
 ]

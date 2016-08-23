@@ -1098,8 +1098,8 @@
 		"_component": "text",
 		"_classes": "",
 		"_layout": "left",
-		"title": "Test Component!",
-		"displayTitle": "",
+		"title": "c-200",
+		"displayTitle": "Left Component",
 		"body": "This is the body of my test component. I sure hope this works.",
 		"_pageLevelProgress": {
 			"_isEnabled": true
@@ -1112,8 +1112,36 @@
 		"_component": "text",
 		"_classes": "",
 		"_layout": "right",
-		"title": "Right Test Component!",
-		"displayTitle": "",
+		"title": "c-201",
+		"displayTitle": "Right Component",
+		"body": "This is the body of my <strong>right</strong> test component. I sure hope this works.",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+		{
+		"_id": "c-205",
+		"_parentId": "b-155",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "left",
+		"title": "c-205",
+		"displayTitle": "Left Component",
+		"body": "This is the body of my test component. I sure hope this works.",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+		{
+		"_id": "c-206",
+		"_parentId": "b-155",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "right",
+		"title": "c-206",
+		"displayTitle": "Right Component",
 		"body": "This is the body of my <strong>right</strong> test component. I sure hope this works.",
 		"_pageLevelProgress": {
 			"_isEnabled": true
